@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
- I am an Software Engineer at BigZkoop Company, specializing in building scalable and efficient web applications. My current tech stack includes React.js, Next.js, Tailwind, React Redux Saga, Nest.js, TypeORM, Prisma, PostgreSQL, Firebase, and MongoDB. I enjoy working on both frontend and backend development, constantly learning and applying the latest technologies to deliver high-quality software solutions.
+ I am an Software Engineer at BigZkoop Company, specializing in building scalable and efficient web applications. My current tech stack includes React.js, Next.js, Tailwind, Redux Saga, Nest.js, TypeORM, Prisma, PostgreSQL, MySQL, aws, Firebase, and MongoDB. I enjoy working on both frontend and backend development, constantly learning and applying the latest technologies to deliver high-quality software solutions.
 
 
 ## 🌐 Socials:
